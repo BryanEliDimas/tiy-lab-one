@@ -1,44 +1,16 @@
-# The Iron Yard - Week One Lab: Data
+## The Iron Yard - Week One Lab: Data
 
-## Description
-
-parsing CSV and using classes
-
-
-## Objectives
-
-### Learning Objectives
-
-After completing this assignment, you should…
+### Objectives
 
 * Understand data design
 * Deeply understand ruby styles, methods, variables, classes
 
-
-### Performance Objectives
-
-After completing this assignment, you be able to effectively use
+### Abilities
+To understand:
 
 * ruby on the command line
 * classes, methods, and data
 * comma seperated values (CSV)
-
-
-
-## Details
-
-### Deliverables
-
-* A gist containing at least:
-  * `planet_express_logs.csv`
-  * `data_parser.rb`
-  * A Class "Delivery", with the data in the CSV file 
-
-### Requirements
-
-
-* I should be able to run `ruby data_parser.rb` and see the output on the screen
-
 
 **Good news Rubyists!**  
 We have a week of records tracking what we shipped at Planet Express.  I need you to answer a few questions for Hermes.

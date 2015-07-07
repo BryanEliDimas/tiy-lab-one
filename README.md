@@ -1,6 +1,6 @@
 ## The Iron Yard - Week One Lab: Data
 
-### Objectives
+## Objectives
 To understand: 
 * Data design
 * Rzuby styles, methods, variables, and classes
@@ -8,7 +8,7 @@ To understand:
 * classes, methods, and data
 * comma seperated values (CSV)
 
-### Assignment
+## Assignment
 
 **Good news Rubyists!**  
 We have a week of records tracking what we shipped at Planet Express.  I need you to answer a few questions for Hermes.

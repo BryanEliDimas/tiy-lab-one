@@ -1,16 +1,14 @@
 ## The Iron Yard - Week One Lab: Data
 
 ### Objectives
-
-* Understand data design
-* Deeply understand ruby styles, methods, variables, classes
-
-### Abilities
-To understand:
-
+To understand: 
+* Data design
+* Rzuby styles, methods, variables, and classes
 * ruby on the command line
 * classes, methods, and data
 * comma seperated values (CSV)
+
+### Assignment
 
 **Good news Rubyists!**  
 We have a week of records tracking what we shipped at Planet Express.  I need you to answer a few questions for Hermes.
